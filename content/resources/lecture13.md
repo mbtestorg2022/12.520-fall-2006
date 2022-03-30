@@ -4,6 +4,7 @@ description: 'This resource discusses special cases of elasticity: plane stress 
   plane strain, its mathematics and application.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/8c318dda0ddcfcb1c1d654ffb3e477b0_lecture13.pdf
 file_type: application/pdf
+parent_uid: f491e47a-eebe-de30-5612-d139ceabe8ad
 resourcetype: Document
 title: lecture13.pdf
 uid: 8c318dda-0ddc-fcb1-c1d6-54ffb3e477b0

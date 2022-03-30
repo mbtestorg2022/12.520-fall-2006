@@ -5,6 +5,7 @@ description: This resource discusses the transformation laws of first- and secon
   Mohr's circle.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-520-geodynamics-fall-2006/994f8f666534c75f34a6cea20843c057_lecture5.pdf
 file_type: application/pdf
+parent_uid: f491e47a-eebe-de30-5612-d139ceabe8ad
 resourcetype: Document
 title: lecture5.pdf
 uid: 994f8f66-6534-c75f-34a6-cea20843c057
